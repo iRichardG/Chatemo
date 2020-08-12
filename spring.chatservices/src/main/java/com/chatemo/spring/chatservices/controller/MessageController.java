@@ -12,7 +12,7 @@ public class MessageController {
 	@RequestMapping("/hello")
 	public @ResponseBody String greeting() {
 		
-		return "Hello World";
+		return "Hello World ";
 	}
 	
 	
